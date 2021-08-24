@@ -1,3 +1,5 @@
+> - Code cannot be shared becuase of course policy
+
 # CS6440
 ## (ClassTeamProject)Individule Health Records
 
