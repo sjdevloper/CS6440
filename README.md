@@ -15,3 +15,5 @@
 
 #### My main job is to build a web app, the user is able to create an account and log in. The showing result is D3 charts.
 
+### DEMO
+![image info](./Demo.png)
